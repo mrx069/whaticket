@@ -60,7 +60,7 @@ sudo apt-get install -y libgbm-dev wget unzip fontconfig locales gconf-service l
 Clone this repo
 
 ```bash
-git clone https://github.com/canove/whaticket/ whaticket
+git clone https://github.com/mrx069/whaticket/ whaticket
 ```
 
 Go to backend folder and create .env file:
